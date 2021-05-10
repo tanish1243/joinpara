@@ -1,0 +1,29 @@
+div{
+    margin:10px;
+    width:48%;
+}
+#para1output,#para2output{
+    width :100%;
+    margin :10px;
+    color:tomato;
+    font-size: 20px;
+    font-family:algerian;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    color:red;
+}
+input{
+    background-color: thistle;
+    border: solid 2px tomato;
+    height:30px;
+    width:200px;
+}
+button{
+    background-color:tomato;
+    border:dotted orange 2px;
+    width:100px;
+    height: 30px;
+}
